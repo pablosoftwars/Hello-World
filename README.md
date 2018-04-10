@@ -1,5 +1,5 @@
 # Hello-World
-Praticas
+Practicas
 Practicas git hub
-Practicas github.
-#hello
+Practicas github
+#hello World
